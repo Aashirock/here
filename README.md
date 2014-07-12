@@ -1,4 +1,4 @@
 HERE
 ====
 
-Wish You were HERE, Space Apps Challenge repository.
+Wish You were HERE, NASA Space Apps Challenge repository.
